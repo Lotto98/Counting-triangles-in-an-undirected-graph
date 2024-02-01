@@ -1,0 +1,5 @@
+/data/*
+!data_generator.py
+!download_data.py
+!data_preparation.py
+!*.zip
